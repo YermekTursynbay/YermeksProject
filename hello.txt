@@ -1,4 +1,4 @@
-print("World")
-print("Zara")
-HELO
-Print(Hello My Dear)
+print("World";)
+print("Zara";)
+HELO;
+Print(Hello My Dear);
